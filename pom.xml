@@ -50,8 +50,8 @@
     <version.io.springfox>2.9.2</version.io.springfox>
     <version.javax.activation>1.1.1</version.javax.activation>
     <version.javax.validation>2.0.1.Final</version.javax.validation>
-    <version.node>v17.3.0</version.node>
-    <version.npm>8.3.0</version.npm>
+    <version.node>v12.16.2</version.node>
+    <version.npm>7.15.1</version.npm>
     <version.org.apache.poi>4.1.2</version.org.apache.poi>
   </properties>
 
